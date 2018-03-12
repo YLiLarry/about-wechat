@@ -1,17 +1,27 @@
 # 如何下载 Telegram Messenger
 https://telegram.org/
 
-下载后，点击此链接 http://t.me/socks?server=47.100.37.38&port=5555 即可登陆
+下载后，点击此链接 http://t.me/socks?server=47.100.37.38&port=5555 即可登陆 (此链接会定期更新)
+
+# 声明
+
+我爱你，宝宝们。我爱大清国，怕它完了。
 
 # 为什么不能用微信
 
 你发的每一条微信都是被人工审核的。这不仅是对我们隐私权的重大侵犯，更是对信息安全的不负责任。你的每一条信息都会被入住腾讯的审核员们看到。想一想你发过的涉及隐私的私信吧宝宝们，比如说你给家里人用微信发了银行密码，不好意思，你的银行密码会被所有网警们看到。
 
-此外，玩笑话在微信里也不要乱讲
+白色恐怖时期，玩笑话在微信里也不要乱讲。更不要在微信上做代购。
 
 [这俩人，因为玩微信被抓了](https://baijiahao.baidu.com/s?id=1578957082097465866&wfr=spider&for=pc)
 
+[一位男子在微信里发了一段视频，结果换来了10天的行政拘留](http://www.sohu.com/a/201177143_99966028)
 
+[真实案例！微信上发个三言两语就被抓了！](http://www.baidu.com/link?url=5uedDV1WrDmax-41DV-i6dVVojR-NvpRPBCEY3s06KScCHv1yrI0MF5Himiyj9lDgH8pXDYnaHCmPDUrc5PpqdPlNmftNyu9Zg9FZHDhPAC&wd=&eqid=973853980001e6a3000000065aa71140)
+
+[这4名微信群主被抓！就因为在微信群里干这事…](https://v.qq.com/x/page/o0343my8q2p.html) 
+
+[百度搜索“微信 被捕"](http://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%20%E8%A2%AB%E6%8D%95&rsv_spt=1&rsv_iqid=0x8c0e24080001912e&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=14&rsv_sug2=0&inputT=2761&rsv_sug4=2761）
 
 # 文章转自BBC中文网 (2016)
 
