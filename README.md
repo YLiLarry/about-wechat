@@ -7,7 +7,7 @@ https://telegram.org/
 
 # 声明
 
-我爱你，宝宝们。
+我爱你，宝宝们。联系我请加Telegram Channel: @lleksahY
 
 # 为什么不能用微信
 
