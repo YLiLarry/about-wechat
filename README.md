@@ -1,4 +1,4 @@
-# 此文章只针对腾讯微信，无其他映射含义
+# 此文章只针对腾讯微信的安全问题发表看法，并无意展开其他讨论。
 
 # 如何下载 Telegram Messenger
 https://telegram.org/
