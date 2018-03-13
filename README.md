@@ -1,3 +1,5 @@
+# 此文章只针对腾讯微信，无其他映射含义
+
 # 如何下载 Telegram Messenger
 https://telegram.org/
 
