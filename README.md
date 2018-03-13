@@ -3,7 +3,7 @@
 # 如何下载 Telegram Messenger
 https://telegram.org/
 
-下载后，**如果你是国内用户**，点击此链接 http://t.me/socks?server=47.100.37.38&port=5555 点击Apply Proxy后即可登陆 (此链接会定期更新)。**海外用户不要点**
+下载后，**如果你是国内用户**，点击此链接 http://t.me/socks?server=47.100.37.38&port=5555 点击Apply Proxy后即可登陆 (此链接会定期更新)。**海外用户不要点开**。
 
 # 声明
 
