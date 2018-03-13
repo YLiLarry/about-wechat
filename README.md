@@ -5,7 +5,7 @@ https://telegram.org/
 
 # 声明
 
-我爱你，宝宝们。我爱大清国，怕它完了。
+我爱你，宝宝们。
 
 # 为什么不能用微信
 
@@ -121,3 +121,7 @@ Title: One App, Two Systems: How WeChat uses one censorship policy in China and 
 Published By: The Citizen Lab, Munk School of Global Affairs, University of Toronto, https://citizenlab.org/2016/11/wechat-china-censorship-one-app-two-systems
 
 Publication Date: 30 November 2016
+
+# 最后
+
+我爱大清国，怕它完了。----常四爷，老舍《茶馆》
