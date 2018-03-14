@@ -3,7 +3,7 @@
 # 如何下载 Telegram Messenger
 https://telegram.org/
 
-下载后，**如果你是国内用户**，点击此链接 telx.tk/ts 点击Apply Proxy后即可登陆 (此链接会定期更新)。**海外用户不要点开**。
+下载后，**如果你是国内用户**，点击此链接 [telx.tk/ts](http://telx.tk/ts) 点击Apply Proxy后即可登陆 (此链接会定期更新)。**海外用户不要点开**。
 
 软件汉化：http://telegra.ph/Telegram-zh-CN-Guide-09-23
 
