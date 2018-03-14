@@ -5,11 +5,13 @@ https://telegram.org/
 
 下载后，**如果你是国内用户**，点击此链接 [telx.tk/ts](http://telx.tk/ts) 点击Apply Proxy后即可登陆 (此链接会定期更新)。**海外用户不要点开**。
 
+梯子更新请加入频道[木弟@telx.tk](https://t.me/telx_tk)
+
 软件汉化：http://telegra.ph/Telegram-zh-CN-Guide-09-23
 
 # 声明
 
-我爱你，宝宝们。联系我请加Telegram Channel: @lleksahY
+我爱你，宝宝们。
 
 # 为什么不能用微信
 
